@@ -13,7 +13,7 @@ Celem było zaklasyfikowanie typu sylwetki na podstawie cech fizycznych.
 - Google Colab
 
 ## Notatnik
-[Kliknij tutaj, aby otworzyć notebook](LINK_DO_COLAB)
+
 
 ## Autor
 Tomasz Szarek
